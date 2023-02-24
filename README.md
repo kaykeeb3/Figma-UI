@@ -16,6 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Typescript
 - React 
 - Radix
+- React Flow
 - Tailwind CSS
 - Git e Github
 - Vite
