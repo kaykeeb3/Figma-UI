@@ -1,6 +1,6 @@
 <h1 align="center">Clone do  Figma Jam</h1>
 
-<p align="center">Clone do Figma Jam é uma réplica real do do app Figma Jam <br/>
+<p align="center">Clone do Figma Jam é uma réplica real do app Figma Jam <br/>
 </p>
 
 <br>
