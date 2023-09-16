@@ -1,27 +1,26 @@
+
 <h1 align="center">Ui Figma Jam</h1>
 
-<p align="center"><em>Clone do Figma Jam é uma réplica real do app Figma Jam <br/></em></p>
-
-<br>
+<p align="center"><em>O Ui Figma Jam é uma réplica realista do aplicativo Figma Jam <br/></em></p>
 
 <p align="center">
-  <img alt="Figma app" src="figma.png" width="100%" height="70%">
+  <img alt="Aplicativo Figma" src="figma.png" width="100%" height="70%">
 </p>
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - Typescript
-- React 
+- React
 - Radix
 - React Flow
 - Tailwind CSS
 - Git e Github
 - Vite
 
-## 💻 Projeto
+## 💻 Visão Geral do Projeto
 
-Figma Jam servir como um grande painel de planejamento e trabalho, em que você pode colocar vários tipos de mídia, post-its, textos, adesivos, além de conter diversos templates prontos para trabalhar com uma infinidade de metodologias e métodos...
+O Figma Jam funciona como uma versátil ferramenta de planejamento e quadro de trabalho, permitindo que você organize vários tipos de mídia, post-its, textos e adesivos. Ele também oferece uma ampla variedade de modelos prontos adequados para várias metodologias e métodos...
 
 - [Visite o projeto online](https://figma-ui-ten.vercel.app/)
